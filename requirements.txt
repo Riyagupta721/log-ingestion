@@ -1,0 +1,4 @@
+fastapi[all]==0.95.2
+loguru==0.7.0
+motor==3.2.0
+uvicorn==0.23.2
